@@ -14,5 +14,3 @@
 - Crear una base de datos PostgreSQL en Docker
 
 - Guardar las tablas en la base de datos
-
-
